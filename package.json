@@ -1,0 +1,32 @@
+{
+  "name": "clear-it",
+  "version": "0.0.0",
+  "description": "Clear terminal console.",
+  "license": "MIT",
+  "repository": "egoist/clear-it",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "clear",
+    "console"
+  ],
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-egoist": "latest"
+  },
+  "eslintConfig": {
+    "extends": "egoist/esnext"
+  }
+}
