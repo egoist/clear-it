@@ -1,6 +1,6 @@
 {
   "name": "clear-it",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clear terminal console.",
   "license": "MIT",
   "repository": "egoist/clear-it",
